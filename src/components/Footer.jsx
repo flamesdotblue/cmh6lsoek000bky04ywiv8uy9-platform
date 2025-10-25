@@ -19,10 +19,10 @@ function Footer() {
             <div>
               <h4 className="text-sm font-semibold text-slate-900">Company</h4>
               <ul className="mt-3 space-y-2 text-sm text-slate-600">
-                <li><a href="#about" className="hover:text-slate-900">About</a></li>
-                <li><a href="#services" className="hover:text-slate-900">Services</a></li>
-                <li><a href="#insights" className="hover:text-slate-900">Insights</a></li>
-                <li><a href="#contact" className="hover:text-slate-900">Contact</a></li>
+                <li><a href="/#about" className="hover:text-slate-900">About</a></li>
+                <li><a href="/#services" className="hover:text-slate-900">Services</a></li>
+                <li><a href="/insights" className="hover:text-slate-900">Insights</a></li>
+                <li><a href="/#contact" className="hover:text-slate-900">Contact</a></li>
               </ul>
             </div>
             <div>
